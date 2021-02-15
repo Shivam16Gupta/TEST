@@ -1,0 +1,52 @@
+.container{
+  height:5000px;
+  border-style: solid;
+  border-color: black;
+  display:flex;
+
+}
+.Box1{
+  order: 3;
+  flex-grow: 2;
+  margin: 5px;
+  border-style: solid;
+  border-color: black;
+  width: 500px;
+
+}
+
+.Box2{
+  order: 5;
+  margin: 5px;
+  border-style: solid;
+  border-color: black;
+  width: 500px;
+
+}
+
+.Box3{
+  order: 4;
+  margin: 5px;
+  border-style: solid;
+  border-color: black;
+  width: 500px;
+
+}
+
+.Box4{
+  order: 2;
+  margin: 5px;
+  border-style: solid;
+  border-color: black;
+  width: 500px;
+
+}
+
+.Box5{
+  order: 1;
+  margin: 5px;
+  border-style: solid;
+  border-color: black;
+  width: 500px;
+
+}
